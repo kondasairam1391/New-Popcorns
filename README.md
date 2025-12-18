@@ -27,7 +27,7 @@ The app allows users to search movies, view details, and manage a personal watch
 
 ## 🔗 Live Demo
 
-https://newpopcorns.netlify.app.netlify.app
+https://newpopcorns.netlify.app
 
 ---
 
