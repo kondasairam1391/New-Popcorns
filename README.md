@@ -1,4 +1,4 @@
-# UsePopcorns 🎬
+# New Popcorns 🎬
 
 A React-based movie exploration and watchlist application built using **Create React App**.  
 The app allows users to search movies, view details, and manage a personal watched list with ratings and statistics.
